@@ -1,0 +1,45 @@
+
+body {background-color: black;}
+
+div .Contato {
+   background-image: url(Site/8.png);
+   background-size: 100%;
+   width: 70%;
+   height: auto;
+   padding: 200px;
+   background-repeat: no-repeat;
+   background-position: center;
+   justify-content: center;
+   border: 5px;
+   
+   }
+   a {
+    color: aliceblue;
+    font-size: medium;}
+
+ button{ size: 5px 10px;
+}
+
+div .criações{
+   background-image: url(Site/4.png);
+   background-size: 100%;
+   width: 70%;
+   height: 80%;
+   padding: 200px;
+   background-repeat: no-repeat;
+   background-position: center;
+   justify-content: center;
+   border: 5px;
+}
+
+
+
+div .sobremim{
+          background-image: url(Site/gif.gif);
+          order: 1;
+          
+
+   
+    
+    }
+
